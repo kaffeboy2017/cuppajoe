@@ -21,12 +21,12 @@ import __builtin__
 # CONFIGURATION VARIABLES
 # -----------------------
 # change these to suit your addons
-root_xml_url = "https://pastebin.com/MpEjvZkN"  # url of the root xml file
+root_xml_url = "https://kaffeboy2017.000webhostapp.com/CuppJoe/Cuppa%20Main.xml"  # url of the root xml file
 __builtin__.tvdb_api_key = "94DFA3D6881AC904"  # tvdb api key
 __builtin__.tmdb_api_key = "20306ad531f6abd3050309e5ae3b6a87"  # tmdb api key
 __builtin__.trakt_client_id = "ae4c1a3617411896faa0b3fa084a57df93a7948886e306f14944adce717e25c8"  # trakt client id
 __builtin__.trakt_client_secret = "ef4dd2ce57c8c19ee0ea1066c4d23bc177e8418fbd7af94fe2fb1162766719e4"  # trakt client secret
-__builtin__.search_db_location = ""  # location of search db
+__builtin__.search_db_location = "https://pastebin.com/Ly2jNAvP"  # location of search db
 
 import os
 import sys

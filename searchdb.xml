@@ -1,0 +1,95 @@
+<item>
+        <title></title>
+        <meta>
+                <content>movie</content>
+                <imdb></imdb>
+                <title></title>
+                <year></year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</item>
+
+
+<dir>
+        <title></title>
+        <meta>
+                <content>tvshow</content>
+                <imdb></imdb>
+                <tvdb></tvdb>
+                <tvshowtitle></tvshowtitle>
+                <year></year>
+        </meta>
+        <link></link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+
+<dir>
+        <title></title>
+        <meta>
+                <content>tvshow</content>
+                <imdb></imdb>
+                <tvdb></tvdb>
+                <tvshowtitle></tvshowtitle>
+                <year></year>
+        </meta>
+        <link></link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+
+<dir>
+        <name></name>
+        <meta>
+                <content>season</content>
+                <imdb></imdb>
+                <tvdb></tvdb>
+                <tvshowtitle></tvshowtitle>
+                <year></year>
+                <season></season>
+        </meta>
+        <link></link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+
+<plugin>
+  <title></title>
+  <link>plugin://plugin.video.youtube/channel/UC_mKiyW7TngnsF2-Yb71_MQ/playlists/</link>
+  <animated_thumbnail></animated_thumbnail>
+  <thumbnail></thumbnail>
+  <animated_fanart></animated_fanart>
+  <fanart></fanart>
+</plugin>
+
+
+<plugin>
+  <name>30701</name>
+  <link>plugin.video.cuppajoe/?action=openSettings</link>
+  <thumbnail></thumbnail>
+  <summary>Settings for Cuppa Joe Addon</summary>
+</plugin>
+
+
+<plugin>
+  <name>30702</name>
+  <link>plugin.video.cuppajoe/?action=search</link>
+  <thumbnail></thumbnail>
+  <summary>Search for Cuppa Joe Addon</summary>
+</plugin>
