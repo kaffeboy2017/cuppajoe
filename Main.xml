@@ -20,6 +20,24 @@
 <dir>
 
 
+<dir>
+<name>TV</name>
+<link></link>
+<thumbnail>https://ia601506.us.archive.org/5/items/kaffeboy2017_gmail_Icon/icon.png</thumbnail>
+<fanart>https://ia801506.us.archive.org/5/items/kaffeboy2017_gmail_Icon/fanart.jpg</fanart>
+
+<dir>
+  
+  
+<dir>
+<name>Movies</name>
+<link></link>
+<thumbnail>https://ia601506.us.archive.org/5/items/kaffeboy2017_gmail_Icon/icon.png</thumbnail>
+<fanart>https://ia801506.us.archive.org/5/items/kaffeboy2017_gmail_Icon/fanart.jpg</fanart>
+
+<dir>
+  
+  
 <plugin>
   <title></title>
   <link>plugin://plugin.video.youtube/channel/***CHANNEL NUMBER HERE***/playlists/</link>
